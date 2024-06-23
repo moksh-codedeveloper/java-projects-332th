@@ -1,6 +1,6 @@
 package Projects01.functions;
 
-public class functions02 {
+public class function02 {
 	public static boolean isPrime(int n) {
 		if (n <= 1) {
 			return false;
