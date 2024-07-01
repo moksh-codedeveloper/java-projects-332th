@@ -78,6 +78,7 @@ public class projects01 {
 				break;
 			}
 		}
+		// query for searching using book title 
 		System.out.println("\n Enter title of the book for updating the stock");
 		input = new Scanner(System.in);
 		title = input.nextLine();
