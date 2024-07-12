@@ -1,4 +1,3 @@
-package Projects01;
 
 public class projects09 {
 	public static void main(String[] args) {

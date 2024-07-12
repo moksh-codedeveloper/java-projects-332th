@@ -1,4 +1,3 @@
-package Projects01;
 
 public class patterns10 {
 	public static void main(String[] args) {

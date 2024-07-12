@@ -1,4 +1,3 @@
-package Projects01.functions;
 
 public class function02 {
 	public static boolean isPrime(int n) {

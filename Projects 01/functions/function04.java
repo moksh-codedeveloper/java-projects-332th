@@ -1,4 +1,3 @@
-package Projects01.functions;
 
 public class function04 {
 	static double power(double x, int n) {

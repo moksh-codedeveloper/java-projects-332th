@@ -1,4 +1,3 @@
-package Projects01.functions;
 
 public class functions05 {
 	public static int twoGcd(int x, int y) {

@@ -1,4 +1,3 @@
-package Projects01.functions;
 
 public class function03 {
 	public static boolean isEven(int n) {
